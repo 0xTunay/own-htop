@@ -6,6 +6,6 @@
 #include "include/system_info.h"
 
 int main(void){
-
+	printf("hello world\n");
 
 }

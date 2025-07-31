@@ -1,5 +1,5 @@
 CC = gcc
-CFLAGS = -Wall -Wextra -g
+CFLAGS = -Wall -Wextra -g -Iinclude
 LDFLAGS = -lncurses
 
 SRC = main.c src/system_info.c src/process_list.c src/ui.c
